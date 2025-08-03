@@ -1,7 +1,7 @@
 # 💼 SAIKET SYSTEMS – DATA ANALYSIS INTERNSHIP  
 ---
 
-# 📊 Task 5 – Retention Strategies & Lifetime Value (LTV)  
+# 📊 Task 5 – Customer Retention Strategies & Lifetime Value (LTV)  
 **Domain:** Data Analysis  
 **Organization:** SaiKet Systems  
 **~BY AKASH. V**  
